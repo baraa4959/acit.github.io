@@ -1,0 +1,26 @@
+.car_info-generator {
+    margin: 20px auto;
+    width: 400px;
+    font-family: sans-serif;
+  }
+  
+  .car_info-generator label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .car_info-generator input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+
+  .car_info-generator button {
+    font-family: sans-serif;
+  }
+  
+  #car_info {
+    width: 100%;
+  }
+  
